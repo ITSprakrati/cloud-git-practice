@@ -7,3 +7,5 @@ Date: 6 March 2026Branch B was here
 >>>>>>> branch-B
 ## IAM Policy Guide
 This section explains AWS IAM policy basics.
+Version : 1.0
+
